@@ -1,12 +1,11 @@
 import React from 'react';
 import './App.css';
-import SearchBar from './Components/SearchBar';
+import MoviesList from './Components/MoviesList';
 
 function App() {
   return (
     <div className="App">
-          <SearchBar/>
-          <h1>awdawdwdawddwa</h1>
+          <MoviesList/>
     </div>
   );
 }
